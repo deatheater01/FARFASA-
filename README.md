@@ -1,2 +1,4 @@
 # FARFASA-
-facial recognition for automated student attendance - pre final year project
+Run setup.py for installation of the edge package.
+
+Run the docker file for server setup
