@@ -14,7 +14,7 @@ requirements = [
     'opencv_python==4.2.0.32',
     'requests==2.23.0',
     'imutils==0.5.3',
-    'Pillow==7.1.1'
+    'Pillow==8.2.0'
 ]
 
 setup(
