@@ -9,7 +9,7 @@ from setuptools import setup
 requirements = [
     'dlib==19.19.0',
     'Click==7.0',
-    'numpy==1.18.1',
+    'numpy==1.22.0',
     'face_recognition_models==0.3.0',
     'opencv_python==4.2.0.32',
     'requests==2.23.0',
