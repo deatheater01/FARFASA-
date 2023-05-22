@@ -12,7 +12,7 @@ requirements = [
     'numpy==1.18.1',
     'face_recognition_models==0.3.0',
     'opencv_python==4.2.0.32',
-    'requests==2.23.0',
+    'requests==2.31.0',
     'imutils==0.5.3',
     'Pillow==7.1.1'
 ]
